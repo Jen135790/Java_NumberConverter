@@ -26,7 +26,8 @@ public class HexNum {
         
         try{
             long i = Long.parseLong(hexInput,16);   //Just to validate hex
-            if(i > 4294967295L){
+            
+            if(i > 4294967295L || i <= 0){
                 valid = false;
             }
         }
