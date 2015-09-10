@@ -8,6 +8,8 @@ This is a small project that uses 3 different objects to handle the three differ
 ####Features
 - User can choose the initial number type and desired number type!
 - If user enters a value that isn't in the number range specified, the label will turn red as a reminder.
+- Each of the classes has it's own algorithm to solve the conversions
+
 
 ####Screenshots
 ![alt tag](https://raw.githubusercontent.com/Jen135790/Java_NumberConverter/master/screenshots/NumberConverter_Decimal.PNG)
